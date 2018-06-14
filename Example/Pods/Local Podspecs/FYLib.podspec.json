@@ -1,0 +1,22 @@
+{
+  "name": "FYLib",
+  "version": "0.1.0",
+  "summary": "A short description of FYLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fanyingzhao/FYLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanyingzhao": "645743245@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fanyingzhao/FYLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FYLib/Classes/**/*"
+}

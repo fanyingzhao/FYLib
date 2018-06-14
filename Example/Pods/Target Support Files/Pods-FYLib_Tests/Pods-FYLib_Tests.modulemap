@@ -1,0 +1,6 @@
+framework module Pods_FYLib_Tests {
+  umbrella header "Pods-FYLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

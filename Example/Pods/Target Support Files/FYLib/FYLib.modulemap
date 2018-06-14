@@ -1,0 +1,6 @@
+framework module FYLib {
+  umbrella header "FYLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

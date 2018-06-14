@@ -1,0 +1,16 @@
+PODS:
+  - FYLib (0.1.0)
+
+DEPENDENCIES:
+  - FYLib (from `../`)
+
+EXTERNAL SOURCES:
+  FYLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FYLib: 5cd429784b45ace1ad033fb853448718af3ed8ec
+
+PODFILE CHECKSUM: e092a3c2b360b74c2b798bad6cfbc2f33987714b
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FYLib_Example' do
+  pod 'FYLib', :path => '../'
+
+  target 'FYLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
